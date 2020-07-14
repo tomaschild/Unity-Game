@@ -1,0 +1,2060 @@
+fileFormatVersion: 2
+guid: 73f41a107ad08e04f8a7f89fe58cf253
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2080642110927788560
+    second: BenV4_0
+  - first:
+      213: 773960442739447613
+    second: BenV4_1
+  - first:
+      213: 2625660312343202552
+    second: BenV4_2
+  - first:
+      213: -3383381646851328459
+    second: BenV4_3
+  - first:
+      213: -2605165137581837187
+    second: BenV4_4
+  - first:
+      213: 6289963506077390291
+    second: BenV4_5
+  - first:
+      213: 7556077603835351715
+    second: BenV4_6
+  - first:
+      213: 4518492565531100291
+    second: BenV4_7
+  - first:
+      213: 2107730772218108855
+    second: BenV4_8
+  - first:
+      213: -2571328812055718478
+    second: BenV4_9
+  - first:
+      213: 7073256420491021818
+    second: BenV4_10
+  - first:
+      213: 2549548592549339689
+    second: BenV4_11
+  - first:
+      213: -418853554781426786
+    second: BenV4_12
+  - first:
+      213: -4167864869699229377
+    second: BenV4_13
+  - first:
+      213: 5111608409002177503
+    second: BenV4_14
+  - first:
+      213: -4956811507946023081
+    second: BenV4_15
+  - first:
+      213: -1027790150090110159
+    second: BenV4_16
+  - first:
+      213: 8112779856163849964
+    second: BenV4_17
+  - first:
+      213: -6056159788212838238
+    second: BenV4_18
+  - first:
+      213: -2292044442571975471
+    second: BenV4_19
+  - first:
+      213: -961105366456120053
+    second: BenV4_20
+  - first:
+      213: 8386706535370921659
+    second: BenV4_21
+  - first:
+      213: 4191178850659720693
+    second: BenV4_22
+  - first:
+      213: -9119161768034929915
+    second: BenV4_23
+  - first:
+      213: -341928610584185123
+    second: BenV4_24
+  - first:
+      213: -3015527272237157787
+    second: BenV4_25
+  - first:
+      213: -5285330486804319065
+    second: BenV4_26
+  - first:
+      213: -8863045317560755172
+    second: BenV4_27
+  - first:
+      213: -76249527380907347
+    second: BenV4_28
+  - first:
+      213: 1623719822670754965
+    second: BenV4_29
+  - first:
+      213: -4628836670048515928
+    second: BenV4_30
+  - first:
+      213: 2348213045405032424
+    second: BenV4_31
+  - first:
+      213: -4038966358717939671
+    second: BenV4_32
+  - first:
+      213: 3407434620176183670
+    second: BenV4_33
+  - first:
+      213: 2800512378081709186
+    second: BenV4_34
+  - first:
+      213: 4851659179337912413
+    second: BenV4_35
+  - first:
+      213: -2086719072726914316
+    second: BenV4_36
+  - first:
+      213: 2721360216601310966
+    second: BenV4_37
+  - first:
+      213: -7691157533173933139
+    second: BenV4_38
+  - first:
+      213: -827126859526524119
+    second: BenV4_39
+  - first:
+      213: 8026000448958463084
+    second: BenV4_40
+  - first:
+      213: -8866953091647564351
+    second: BenV4_41
+  - first:
+      213: 8951276560718225372
+    second: BenV4_42
+  - first:
+      213: 2952372932816838651
+    second: BenV4_43
+  - first:
+      213: 7817098508020725678
+    second: BenV4_44
+  - first:
+      213: -1217816426866081644
+    second: BenV4_45
+  - first:
+      213: 843385859830229127
+    second: BenV4_46
+  - first:
+      213: 2054141019933769680
+    second: BenV4_47
+  - first:
+      213: -3779921991461821241
+    second: BenV4_48
+  - first:
+      213: -1688986253891975508
+    second: BenV4_49
+  - first:
+      213: 867593494965841546
+    second: BenV4_50
+  - first:
+      213: 4301101380091969724
+    second: BenV4_51
+  - first:
+      213: -7131182085961596633
+    second: BenV4_52
+  - first:
+      213: 5953219557160484249
+    second: BenV4_53
+  - first:
+      213: -6959121861153430098
+    second: BenV4_54
+  - first:
+      213: -9180281742039514466
+    second: BenV4_55
+  - first:
+      213: 1260398636574603933
+    second: BenV4_56
+  - first:
+      213: -7668925188035200476
+    second: BenV4_57
+  - first:
+      213: 654026850913765551
+    second: BenV4_58
+  - first:
+      213: 8048786020062679324
+    second: BenV4_59
+  - first:
+      213: -682141648604731030
+    second: BenV4_60
+  - first:
+      213: 6372887447674506708
+    second: BenV4_61
+  - first:
+      213: 624238821808804900
+    second: BenV4_62
+  - first:
+      213: 6392087912080943012
+    second: BenV4_63
+  - first:
+      213: -9052382818330577706
+    second: BenV4_64
+  - first:
+      213: 5689331260669066229
+    second: BenV4_65
+  - first:
+      213: 8633145126627694721
+    second: BenV4_66
+  - first:
+      213: -4258599388828721067
+    second: BenV4_67
+  - first:
+      213: 9114959262627802058
+    second: BenV4_68
+  - first:
+      213: -1309505751084621721
+    second: BenV4_69
+  - first:
+      213: -3958858087172030472
+    second: BenV4_70
+  - first:
+      213: 490926584205423267
+    second: BenV4_71
+  - first:
+      213: -4712213819624751547
+    second: BenV4_72
+  - first:
+      213: -4892891606682256989
+    second: BenV4_73
+  - first:
+      213: 9095110928792538409
+    second: BenV4_74
+  - first:
+      213: -2828358306861134008
+    second: BenV4_75
+  - first:
+      213: -6549953109847427753
+    second: BenV4_76
+  - first:
+      213: -3003168125695859389
+    second: BenV4_77
+  - first:
+      213: -3403606440877813201
+    second: BenV4_78
+  - first:
+      213: 2040561634972614560
+    second: BenV4_79
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BenV4_0
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 6462
+        width: 211
+        height: 537
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ad196e9fcefdc10800000000000000
+      internalID: 2080642110927788560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_1
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 6466
+        width: 211
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3750bb0ce8adba00800000000000000
+      internalID: 773960442739447613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_2
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 6459
+        width: 211
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8face0a8428307420800000000000000
+      internalID: 2625660312343202552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_3
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 6456
+        width: 211
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536b9df6150db01d0800000000000000
+      internalID: -3383381646851328459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_4
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 6376
+        width: 214
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74f3313c1898dbd0800000000000000
+      internalID: -2605165137581837187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_5
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 6373
+        width: 212
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5d9edab707a4750800000000000000
+      internalID: 6289963506077390291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_6
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 6373
+        width: 211
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a214effb849cd860800000000000000
+      internalID: 7556077603835351715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_7
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 6372
+        width: 211
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38489b06c09e4be30800000000000000
+      internalID: 4518492565531100291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_8
+      rect:
+        serializedVersion: 2
+        x: 2701
+        y: 6424
+        width: 211
+        height: 537
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb583858f9204d10800000000000000
+      internalID: 2107730772218108855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_9
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 6421
+        width: 247
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b511b4a11ec05cd0800000000000000
+      internalID: -2571328812055718478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_10
+      rect:
+        serializedVersion: 2
+        x: 3286
+        y: 6417
+        width: 211
+        height: 537
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd4e9c1d31492260800000000000000
+      internalID: 7073256420491021818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_11
+      rect:
+        serializedVersion: 2
+        x: 3516
+        y: 6636
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9222084dfe0d16320800000000000000
+      internalID: 2549548592549339689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_12
+      rect:
+        serializedVersion: 2
+        x: 3563
+        y: 6408
+        width: 218
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9be75e39eeef2af0800000000000000
+      internalID: -418853554781426786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_13
+      rect:
+        serializedVersion: 2
+        x: 3796
+        y: 6627
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f396fb9bbf4c826c0800000000000000
+      internalID: -4167864869699229377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_14
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 5836
+        width: 272
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd37979f3c410f640800000000000000
+      internalID: 5111608409002177503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_15
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 5203
+        width: 370
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7571f42223ed53bb0800000000000000
+      internalID: -4956811507946023081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_16
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 5186
+        width: 336
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bcb30dd4e8cb1f0800000000000000
+      internalID: -1027790150090110159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_17
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 5193
+        width: 322
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6479bbb42669070800000000000000
+      internalID: 8112779856163849964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_18
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 5196
+        width: 325
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0a19072c234fba0800000000000000
+      internalID: -6056159788212838238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_19
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 5182
+        width: 323
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4d61729b50130e0800000000000000
+      internalID: -2292044442571975471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_20
+      rect:
+        serializedVersion: 2
+        x: 2379
+        y: 5192
+        width: 322
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d49a8e2c779a2f0800000000000000
+      internalID: -961105366456120053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_21
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 4542
+        width: 335
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb61b34c821936470800000000000000
+      internalID: 8386706535370921659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_22
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 4531
+        width: 225
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdd3b775fe0a2a30800000000000000
+      internalID: 4191178850659720693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_23
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 4538
+        width: 456
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50374f6ffaa327180800000000000000
+      internalID: -9119161768034929915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_24
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 4511
+        width: 615
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd636938db9314bf0800000000000000
+      internalID: -341928610584185123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_25
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 4480
+        width: 575
+        height: 641
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5623dcf3ce1b626d0800000000000000
+      internalID: -3015527272237157787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_26
+      rect:
+        serializedVersion: 2
+        x: 2898
+        y: 4545
+        width: 540
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a47c75dcebb6a6b0800000000000000
+      internalID: -5285330486804319065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_27
+      rect:
+        serializedVersion: 2
+        x: 3501
+        y: 4542
+        width: 401
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c1a9afd33200580800000000000000
+      internalID: -8863045317560755172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_28
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 4521
+        width: 350
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa6b26757b11fef0800000000000000
+      internalID: -76249527380907347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_29
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 3940
+        width: 432
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594fc0d639c988610800000000000000
+      internalID: 1623719822670754965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_30
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 3954
+        width: 532
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8c47eb29113cfb0800000000000000
+      internalID: -4628836670048515928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_31
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 3936
+        width: 215
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef1e4cc257869020800000000000000
+      internalID: 2348213045405032424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_32
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 3812
+        width: 101
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9204dd00f75b2f7c0800000000000000
+      internalID: -4038966358717939671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_33
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 3255
+        width: 263
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67138f2dbb3a94f20800000000000000
+      internalID: 3407434620176183670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_34
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 3241
+        width: 311
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c05ac8b2b6dd620800000000000000
+      internalID: 2800512378081709186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_35
+      rect:
+        serializedVersion: 2
+        x: 2598
+        y: 3784
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5013b3815e845340800000000000000
+      internalID: 4851659179337912413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_36
+      rect:
+        serializedVersion: 2
+        x: 3013
+        y: 3237
+        width: 328
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa641c2f0c7a03e0800000000000000
+      internalID: -2086719072726914316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_37
+      rect:
+        serializedVersion: 2
+        x: 3051
+        y: 3743
+        width: 79
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6b668d2b634c520800000000000000
+      internalID: 2721360216601310966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_38
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 3736
+        width: 73
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab199b19f4834590800000000000000
+      internalID: -7691157533173933139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_39
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 3248
+        width: 358
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923bcb9e0847584f0800000000000000
+      internalID: -827126859526524119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_40
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 3739
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c7b4f72e4126f60800000000000000
+      internalID: 8026000448958463084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_41
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 3231
+        width: 335
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c59b4c642142f480800000000000000
+      internalID: -8866953091647564351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_42
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 3241
+        width: 294
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfd3e72b92593c70800000000000000
+      internalID: 8951276560718225372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_43
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 3230
+        width: 318
+        height: 537
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff96014a8fe8f820800000000000000
+      internalID: 2952372932816838651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_44
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 3702
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7bfc02da9eb7c60800000000000000
+      internalID: 7817098508020725678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_45
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 3665
+        width: 4
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490030b7962791fe0800000000000000
+      internalID: -1217816426866081644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_46
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 3639
+        width: 52
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788a4c798fe44bb00800000000000000
+      internalID: 843385859830229127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_47
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 3628
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dff5b3df56c18c10800000000000000
+      internalID: 2054141019933769680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_48
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 3604
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c42b34c9f40b8bc0800000000000000
+      internalID: -3779921991461821241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_49
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 3608
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6404263f38f88e0800000000000000
+      internalID: -1688986253891975508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_50
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 3590
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ee0ecdfaf4a0c00800000000000000
+      internalID: 867593494965841546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_51
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 3542
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0035fbae490bb30800000000000000
+      internalID: 4301101380091969724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_52
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 3563
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72141a9eca3f80d90800000000000000
+      internalID: -7131182085961596633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_53
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 3524
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d757e45a51e9250800000000000000
+      internalID: 5953219557160484249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_54
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 3535
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea56b4dc98b3c6f90800000000000000
+      internalID: -6959121861153430098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_55
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 3490
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e920bb31566199080800000000000000
+      internalID: -9180281742039514466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_56
+      rect:
+        serializedVersion: 2
+        x: 2566
+        y: 3493
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a7a60d1e5dd7110800000000000000
+      internalID: 1260398636574603933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_57
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 3490
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42abd165c21829590800000000000000
+      internalID: -7668925188035200476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_58
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 3448
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8484aa4f1931900800000000000000
+      internalID: 654026850913765551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_59
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 3436
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1157fead3803bf60800000000000000
+      internalID: 8048786020062679324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_60
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 3445
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a696a64e8cb8886f0800000000000000
+      internalID: -682141648604731030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_61
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 3400
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd4f206e5b017850800000000000000
+      internalID: 6372887447674506708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_62
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 3390
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4241ceca6edb9a800800000000000000
+      internalID: 624238821808804900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_63
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 3407
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a727acd61245b850800000000000000
+      internalID: 6392087912080943012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_64
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 3369
+        width: 63
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d47e8ec9c97f5280800000000000000
+      internalID: -9052382818330577706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_65
+      rect:
+        serializedVersion: 2
+        x: 2539
+        y: 3393
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb74b163a094fe40800000000000000
+      internalID: 5689331260669066229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_66
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 3064
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188d90790c71fc770800000000000000
+      internalID: 8633145126627694721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_67
+      rect:
+        serializedVersion: 2
+        x: 2533
+        y: 3048
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5502b2c3b6a66e4c0800000000000000
+      internalID: -4258599388828721067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_68
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 3065
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb261ff727de7e70800000000000000
+      internalID: 9114959262627802058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_69
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 2424
+        width: 585
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760254b1573b3dde0800000000000000
+      internalID: -1309505751084621721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_70
+      rect:
+        serializedVersion: 2
+        x: 3684
+        y: 2410
+        width: 581
+        height: 658
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffbded6b8f4f09c0800000000000000
+      internalID: -3958858087172030472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_71
+      rect:
+        serializedVersion: 2
+        x: 3944
+        y: 3064
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a23c56902f10d600800000000000000
+      internalID: 490926584205423267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_72
+      rect:
+        serializedVersion: 2
+        x: 4165
+        y: 3051
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e74975f7ada9eb0800000000000000
+      internalID: -4712213819624751547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_73
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 2479
+        width: 224
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9b633e105f81cb0800000000000000
+      internalID: -4892891606682256989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_74
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 2480
+        width: 453
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92dc377a333583e70800000000000000
+      internalID: 9095110928792538409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_75
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 2455
+        width: 616
+        height: 588
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f440eea17afb8d0800000000000000
+      internalID: -2828358306861134008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_76
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 3033
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75534188954e915a0800000000000000
+      internalID: -6549953109847427753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_77
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 2428
+        width: 589
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3456f1b408a9256d0800000000000000
+      internalID: -3003168125695859389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_78
+      rect:
+        serializedVersion: 2
+        x: 2291
+        y: 2782
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f221f30a9f5f3c0d0800000000000000
+      internalID: -3403606440877813201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenV4_79
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 2763
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af35d2eef7815c10800000000000000
+      internalID: 2040561634972614560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
